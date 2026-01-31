@@ -5,4 +5,3 @@ export default function Viewer() {
 
   return <div>{count}</div>;
 }
- 
